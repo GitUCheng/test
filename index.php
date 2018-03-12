@@ -1,3 +1,4 @@
 <?php
 phpinfo();
-echo 99999;
+echo 56;
+echo 999;
